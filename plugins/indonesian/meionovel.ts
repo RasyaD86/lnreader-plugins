@@ -206,3 +206,4 @@ class Meionovel implements Plugin.PluginBase {
 }
 
 export default new Meionovel();
+
